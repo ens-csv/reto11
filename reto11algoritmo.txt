@@ -1,0 +1,7 @@
+Inicio
+Validar si dos objetos tienen el mismo nombre
+  si es igual
+    anunciar que se encontro el personaje buscado
+  si no
+    anunciar que se va a seguir buscando
+Fin
